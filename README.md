@@ -1,0 +1,2 @@
+# StudyHSE
+Python course projects 
